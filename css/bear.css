@@ -10,9 +10,8 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width: 1283){
+@media only screen and (max-width: 1283px){
   #bear {
-  position: fixed;   
+  position: fixed;
   }
 }
-
